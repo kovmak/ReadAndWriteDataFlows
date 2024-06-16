@@ -53,8 +53,7 @@ Represents the subject of the reviews.
    javac -d bin src/**/*.java
 4. Run the project:
    ```
-   java -cp bin com.example.Main
-
+   java -cp bin com.krnelx.Main
 ## Documentation
 
 Generate JavaDoc documentation:
